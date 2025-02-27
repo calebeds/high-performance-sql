@@ -1,0 +1,6 @@
+-- SCHEMA: sales
+
+DROP SCHEMA IF EXISTS iot ;
+
+CREATE SCHEMA IF NOT EXISTS iot
+    AUTHORIZATION postgres;
